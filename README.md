@@ -1,4 +1,4 @@
-# showodwn-usage
+# showdown-usage
 
 This script is designed to retrieve usage statistics from Pokémon Showdown, a popular online battle simulator for the Pokémon franchise. The usage statistics provide valuable insights into the popularity and viability of various Pokémon in competitive battles.
 
